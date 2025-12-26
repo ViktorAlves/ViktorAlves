@@ -31,5 +31,4 @@ Atualmente, curso Sistemas de Informação na Universidade Presbiteriana Mackenz
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-/> Fun fact: ...
--->
+/>
