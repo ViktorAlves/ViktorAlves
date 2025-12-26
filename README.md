@@ -54,9 +54,3 @@ Sou fluente em português, possuo inglês avançado e espanhol básico, o que me
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
-
-<br/>
-<br/>
-
-### 📉 Estatística
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
