@@ -1,6 +1,6 @@
 #  🦈 Victor Alves 🦈
 
-## Estudande de Sistemas de Informação 💻
+## Estudante de Sistemas de Informação 💻
 
 Atualmente, curso Sistemas de Informação na Universidade Presbiteriana Mackenzie e busco uma oportunidade para aplicar e expandir meus conhecimentos técnicos e analíticos em um ambiente profissional desafiador. 
 Minha formação acadêmica tem sido complementada pelo estudo prático de ferramentas e linguagens relevantes para o mercado, tais como:
