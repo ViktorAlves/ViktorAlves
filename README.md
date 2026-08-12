@@ -76,8 +76,8 @@ Sou fluente em português, possuo **inglês avançado** (com certificado de prof
 ---
 
 ### 📜 Certificações Destacadas
-* **AWS Academy Graduate** - Cloud Developing
-* **DataCamp** - Data Manipulation with pandas / Unsupervised Learning in Python / Intro to Data Science
-* **Anthropic Education** - Claude 101, Intro to Agent Skill & Subagents
-* **Fundação Bradesco** - Análise de Dados no Power BI
-* **Wizard** - Proficiency Certificate
+*☁️ **AWS Academy Graduate** - Cloud Developing
+*🎲 **DataCamp** - Data Manipulation with pandas / Unsupervised Learning in Python / Intro to Data Science
+*🤖 **Anthropic Education** - Claude 101, Intro to Agent Skill & Subagents
+*🏦 **Fundação Bradesco** - Análise de Dados no Power BI
+*🧙🏼‍♂️ **Wizard** - Proficiency Certificate
