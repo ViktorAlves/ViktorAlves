@@ -9,7 +9,7 @@ Minha formação acadêmica tem sido complementada pelo estudo prático de ferra
 
 *   📊 Familiaridade com Banco de Dados, SQL, Data Analytics e Power BI;
 
-*   📈 Experiência básica com JavaScript e visualização de dados;
+*   📈 Experiência básica com JavaScript, visualização de dados e Salesforce;
 
 *   🐍 Uso de bibliotecas como Pandas, matplotlib e scikit-learn para manipulação e análise de dados.
 
