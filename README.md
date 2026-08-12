@@ -1,5 +1,9 @@
 #  🦈 Victor Alves 🦈
 
+## Contatos 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/seu-usuario](https://github.com/ViktorAlves))
+
+
 ## Estudante de Sistemas de Informação 💻
 
 Atualmente, curso Sistemas de Informação na Universidade Presbiteriana Mackenzie e busco uma oportunidade para aplicar e expandir meus conhecimentos técnicos e analíticos em um ambiente profissional desafiador. 
@@ -57,6 +61,3 @@ Sou fluente em português, possuo inglês avançado e espanhol básico, o que me
 
 
 ---
-
-
-## Contatos [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/seu-usuario](https://github.com/ViktorAlves))
