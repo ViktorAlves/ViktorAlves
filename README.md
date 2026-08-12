@@ -59,5 +59,3 @@ Sou fluente em português, possuo inglês avançado e espanhol básico, o que me
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 
-
----
