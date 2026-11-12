@@ -3,6 +3,10 @@
 ## Contatos 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ViktorAlves)
 
+<a href="https://tryhackme.com" target="_blank">
+  <img src="https://amazonaws.com" alt="TryHackMe Badge">
+</a>
+
 ## Estudante de Sistemas de Informação 💻
 
 Atualmente, curso Sistemas de Informação na Universidade Presbiteriana Mackenzie (2023 - 2027) e atuo como **Estagiário de Inovação, IA e Automação de Processos** na PSA Arquitetura. 
