@@ -3,9 +3,9 @@
 ## Contatos 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ViktorAlves)
 
-<a href="https://tryhackme.com" target="_blank">
-  <img src="https://amazonaws.com" alt="TryHackMe Badge">
-</a>
+<a href="https://www.linkedin.com/in/daltonlima/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
+  </a>
 
 ## Estudante de Sistemas de Informação 💻
 
