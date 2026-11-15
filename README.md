@@ -7,9 +7,7 @@
 
 ## Estudante de Sistemas de Informação 💻
 
-Atualmente, curso Sistemas de Informação na Universidade Presbiteriana Mackenzie (2023 - 2027) e atuo como **Estagiário de Inovação, IA e Automação de Processos** na PSA Arquitetura. 
-
-Busco aplicar e expandir minhas competências técnicas em **SQL, Python, R e Power BI** para otimizar fluxos de informação, criar automações e estruturar indicadores estratégicos, contribuindo para ambientes guiados pela cultura *data-driven*.
+Estudante de Sistemas de Informação no Mackenzie em direcionamento de carreira para Cibersegurança, com foco inicial em operações defensivas e SOC (Blue Team) — monitoramento, triagem de alertas, análise de logs e resposta a incidentes — e visão de evolução técnica para ##segurança ofensiva (Pentest)## . Combina sólida base acadêmica em redes, sistemas operacionais, governança de TI e bancos de dados com experiência prática em automação de processos, Python, SQL e IA Generativa aplicada à eficiência operacional e análise de dados.
 
 ### 🚀 Principais Competências & Atividades:
 * 🐍 **Análise de Dados:** Manipulação e exploração de dados com Python (Pandas, Matplotlib, Scikit-learn) e R para análise estatística;
