@@ -69,7 +69,7 @@ Sou fluente em português, possuo **inglês avançado** (com certificado de prof
     title="AWS" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"
 />
 <img 
     align="left" 
