@@ -1,7 +1,7 @@
 # 🦈 Victor Alves 🦈
 
 ## Contatos 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ViktorAlves) [![TryHackMe](https://img.shields.io/badge/-TryHackMe-#910412?style=flat-square&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/BlackLumpink)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ViktorAlves) [![TryHackMe](https://img.shields.io/badge/-TryHackMe-#910412?style=flat-square&logo=red&logoColor=white)](https://tryhackme.com/p/BlackLumpink)
 
 
 
