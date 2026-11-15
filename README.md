@@ -15,7 +15,7 @@ Estudante de Sistemas de Informação no Mackenzie em direcionamento de carreira
 * 🤖 **Inteligência Artificial & Automação:** Desenvolvimento de agentes de IA, fluxos inteligentes, assistentes virtuais e integração de IA generativa (Claude) com Power BI e Excel para geração de insights;
 * 📊 **Business Intelligence & Planilhas:** Construção de dashboards operacionais e estratégicos no Power BI, além de gestão avançada de indicadores em Excel e Google Sheets;
 * ☁️ **Nuvem & Outras Tecnologias:** Conhecimentos práticos em AWS, conceitos de CRM com Salesforce e desenvolvimento básico em Java e JavaScript.
-* 🔐 **Segurança, Redes e Sistemas:**Fundamentos de SOC / Blue Team, Segurança da Informação e Governança de TI, protocolos de Rede (TCP/IP, UDP, DNS, HTTP) e Arquitetura de Computadores, sistemas Operacionais Linux (Ubuntu) e Virtualização (Máquinas Virtuais)
+* 🔐 **Segurança, Redes e Sistemas:** Fundamentos de SOC / Blue Team, Segurança da Informação e Governança de TI, protocolos de Rede (TCP/IP, UDP, DNS, HTTP) e Arquitetura de Computadores, sistemas Operacionais Linux (Ubuntu) e Virtualização (Máquinas Virtuais)
 
 Sou fluente em português, possuo **inglês avançado** (com certificado de proficiência) e **espanhol básico**, o que me permite atuar em contextos multiculturais e acompanhar documentação técnica.
 
